@@ -209,4 +209,4 @@ Next, we'll need to write the code to implement the 3 IBActions in our .h file. 
 
 ```
 
-This tutorial is available in source code form on my Github page here: 
+This tutorial is available in source code form on my Github page here: ![GitHub Link To Example Project](https://github.com/johnnyclem/Coffee-Shop-MVC)
